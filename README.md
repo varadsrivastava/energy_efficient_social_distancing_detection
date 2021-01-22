@@ -1,1 +1,1 @@
-# energy_efficient_social_distancing_detection
+# Energy Efficient Social Distancing Detection
